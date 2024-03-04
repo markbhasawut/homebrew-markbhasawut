@@ -1,10 +1,10 @@
 class MacLinuxKdk < Formula
   desc "Linux Kernel Development Kit for macOS"
   homepage "https://github.com/markbhasawut/mac-linux-kdk"
-  version "2024.03.04-a3297b5"
+  version "2024.03.04-9662141"
 
-  url "https://github.com/markbhasawut/mac-linux-kdk/archive/a3297b521eb7cc642b80e1beea692afa71889bcd.zip"
-  sha256 "eab92deb218006f0ae23a69b8c364a0d49d4381a4ff7a441d3b890d10865f139"
+  url "https://github.com/markbhasawut/mac-linux-kdk/archive/966214117fc7bc3c59ad4d3e61a980ac9faadafd.zip"
+  sha256 "b2caf8fd1fc4ccfacdea5ee8952025bc412ca608597a4b988dfb5b6e866c3a58"
   license "LGPL-3.0-or-later" => { with: "LGPL-3.0-linking-exception" }
 
   depends_on "coreutils"
