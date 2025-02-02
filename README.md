@@ -12,3 +12,5 @@ $ brew tap markbhasawut/markbhasawut
 
 - [gcc@15](Formula/gcc@15.rb):
 an experimental GCC 15.0.1 (January 2025) for macOS arm64.
+
+- [asmjit](Formula/asmjit.rb): Low-latency machine code generation.
